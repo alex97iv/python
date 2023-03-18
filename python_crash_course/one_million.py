@@ -1,0 +1,3 @@
+if __name__ == '__main__':
+    numbers = list(range(1, 1_000_001))
+    print(numbers)
